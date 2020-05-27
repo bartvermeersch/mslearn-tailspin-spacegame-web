@@ -1,4 +1,4 @@
-
+[![Build Status](https://vermeersch.visualstudio.com/MS%20Learn%20Azure%20pipelines/_apis/build/status/bartvermeersch.mslearn-tailspin-spacegame-web?branchName=master)](https://vermeersch.visualstudio.com/MS%20Learn%20Azure%20pipelines/_build/latest?definitionId=2&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
